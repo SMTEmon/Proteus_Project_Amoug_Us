@@ -22,4 +22,11 @@ This project is a simulation of the "Reactor Task" from the game **Among Us**, i
 
 1. **Clone this Repository:**
    ```bash
-   git clone https://github.com/SMTEmon/Proteus_Project_Amoug_Us.git
+   git clone [https://github.com/SMTEmon/Proteus_Project_Amoug_Us.git](https://github.com/SMTEmon/Proteus_Project_Amoug_Us.git)
+
+## Authors 
+
+This project was built by:
+
+S.M. Tahsinuzzaman Emon || S M Samiul Hossain || Tamim Mahrush Naser
+
